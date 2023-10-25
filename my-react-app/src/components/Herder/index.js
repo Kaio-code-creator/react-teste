@@ -1,6 +1,6 @@
 import React from "react";
 
-function Topo() {
+function Header() {
     return(
         <>
             Topo do Site
@@ -8,4 +8,4 @@ function Topo() {
     );
 }
 
-export default Topo;
+export default Header;
